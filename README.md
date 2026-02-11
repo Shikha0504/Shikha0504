@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shikha0504
-- 👀 I’m interested in data
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on ML/AI
+- 👋 Hi, I’m @Shikha
+- 👀 I’m interested in cloud
+- 🌱 I’m currently learning AWS Cloud
+- 💞️ I’m looking to collaborate on Cloud Engineer Role
 - 📫 How to reach me ...
 
 <!---
